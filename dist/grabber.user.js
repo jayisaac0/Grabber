@@ -8,6 +8,7 @@
 // @match       *://9anime.to/watch/*
 // @match       *://9anime.is/watch/*
 // @match       *://9anime.tv/watch/*
+// @match       *://9anime.nl/watch/*
 // @grant       GM_addStyle
 // @grant       GM_xmlhttpRequest
 // @grant       GM_setClipboard
